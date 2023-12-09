@@ -120,6 +120,6 @@ Tickets :
     <img width="456" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/e5ae7c1c-4521-4dbf-9709-3d3f63dd4ab2">
 
   /echo [ManageMessage]
-    Send a message with the bot's profile
+    Send a message with the bot's profile<br>
     <img width="261" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/ec09164f-5c47-4ea5-a74a-dc12e27beb8b">
 
