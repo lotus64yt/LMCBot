@@ -57,43 +57,43 @@ Tickets :
 
 Fun :
   /ascii
-    Transform a string into ascii art
+    Transform a string into ascii art <br><br>
     <img width="320" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/8402e9fa-2e4f-4f3e-a060-39c377155cc4">
 
   /blague
-    Get a random joke for blague-api
+    Get a random joke for blague-api <br><br>
     <img width="298" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/69672d43-5399-49cf-83dd-735a840cb98a">
 
   /calin
-    Send a cuddly to a member
+    Send a cuddly to a member <br><br>
     <img width="350" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/c6e2c2b4-6a51-4534-8fb5-dccc4f24d2c6">
 
   /decode
-    Decode a string formated with a specific encode methode
+    Decode a string formated with a specific encode methode <br><br>
     <img width="393" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/61bb5dd5-9b5d-4621-b1f0-cadb39ddbc68">
 
   /encode
-    Encode a string with a specific methode
+    Encode a string with a specific methode <br><br>
     <img width="337" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/ce672dd8-3643-4986-8e54-9263eaf4b343">
 
   /hack
-    Show (fake) informations of an specific user
+    Show (fake) informations of an specific user <br><br>
     <img width="243" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/20716300-8263-4959-9356-df68697f013e">
 
   /nourir
-    Give a meat to a specific user
+    Give a meat to a specific user <br><br>
     <img width="352" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/428a8012-7fe8-459b-8d94-8b1ffcbc0308">
 
   /maths
-    Ask the bot to resolve a calcul
+    Ask the bot to resolve a calcul <br><br>
     <img width="283" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/328cf7ea-e43e-4535-8395-1a994eb982fc">
 
   /nasa apod
-    Use the NASA api for get the daily picture
+    Use the NASA api for get the daily picture <br><br>
     <img width="383" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/a19f4d20-9b79-4b71-a902-5c071b9809b4">
 
   /voyageur
-    Say hello to a member
+    Say hello to a member <br><br>
     <img width="280" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/fb12fc45-07e9-4d44-b5e2-e1c3424aa225">
 
   
