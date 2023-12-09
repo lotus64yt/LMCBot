@@ -40,6 +40,10 @@
     Unlock a channel for a role (by default everyone). The choosen role will be abble to send message in the interaction channel <br><br>
     <img width="247" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/3e158470-7bff-4f6d-9f53-bdf7fd112360">
 
+  /admin
+    Manage the interaction guild
+    <img width="525" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/9af8d004-78d8-4993-b357-120628588f81">
+
 
 
 Tickets :
@@ -97,3 +101,19 @@ Tickets :
     <img width="280" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/fb12fc45-07e9-4d44-b5e2-e1c3424aa225">
 
   
+# Pubs
+  /support
+    Get the link of LMC Bot's support <br><br>
+    <img width="362" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/9e1b5f6c-9cb9-4168-a451-c2a9eaac86be">
+
+  /invite
+    Get The link for invite the bot in an other guild <br><br>
+    <img width="293" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/99ce34ef-3512-4978-930a-8bd9b2e2a2cd">
+
+  /invitation créer [Everyone]
+    Create an invitation link with admin permssions for an app using his id <br><br>
+    <img width="437" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/46f0b4b8-2209-4cdd-9a06-bca0ebca53d3">
+
+# Other
+  /button_role [Admin]
+    Send a button who give a specific role
