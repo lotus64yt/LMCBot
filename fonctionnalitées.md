@@ -132,8 +132,15 @@ Tickets :
     Start the bot configuration <br>
     <img width="371" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/942e15e0-d92e-40bc-b27e-a4ac9c7245c0">
 
-  /poll [Everyone]
+  /poll [Everyone] <br>
     Send a poll <br>
     <img width="255" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/ccd14591-ec56-4a92-bd3a-5e4edffb7760">
 
-  
+  /report [Everyone] <br>
+    Report an user <br>
+    <img width="295" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/8e5a0ad8-e691-48bc-8b24-02280e9b973c">
+    <img width="326" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/8dc9f816-3e86-4cde-adf4-b1d810ac9dc5">
+
+  /trad [Everyone] <br>
+    Translate a string to a specific language <br>
+    
