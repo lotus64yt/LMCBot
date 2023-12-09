@@ -123,3 +123,9 @@ Tickets :
     Send a message with the bot's profile<br>
     <img width="261" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/ec09164f-5c47-4ea5-a74a-dc12e27beb8b">
 
+  /embed [ManageMessage] <br>
+    Send a custom embed with the bot
+    <img width="210" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/98718c66-9265-4ee0-99e1-6f0735bf9614">
+    ![image](https://github.com/lotus64yt/LMCBot/assets/114228798/2d1ac5e8-f799-4917-a946-8bd119ceb5f1)
+
+
