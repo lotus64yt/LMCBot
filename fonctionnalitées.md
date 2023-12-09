@@ -1,4 +1,4 @@
-Giveaway :
+# Giveaway :
   /giveaway create 
     Create a giveaway in a server with a title, a price, number of winner(s), a duration and conditions witch is optional <br><br>
     <img width="342" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/ed5549f0-32af-42a9-b38f-132c50988e4c">
@@ -20,7 +20,7 @@ Giveaway :
 
   
 
-Moderation :
+# Moderation :
   /mute
     Timeout a member for a specific time <br><br>
     <img width="446" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/687e9c40-7ae6-43b9-abd2-946767710367">
@@ -55,7 +55,7 @@ Tickets :
     <img width="530" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/6b89f98c-b7b7-422b-83f5-242bcae5a2d9"><br>
     <img width="606" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/875d01e9-bd13-4e03-8719-fdb80e8704ea">
 
-Fun :
+# Fun :
   /ascii
     Transform a string into ascii art <br><br>
     <img width="320" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/8402e9fa-2e4f-4f3e-a060-39c377155cc4">
