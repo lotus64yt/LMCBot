@@ -41,7 +41,7 @@
     <img width="247" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/3e158470-7bff-4f6d-9f53-bdf7fd112360">
 
   /admin [Admin]
-    Manage the interaction guild
+    Manage the interaction guild<br>
     <img width="525" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/9af8d004-78d8-4993-b357-120628588f81">
 
 
