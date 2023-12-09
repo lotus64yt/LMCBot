@@ -124,8 +124,16 @@ Tickets :
     <img width="261" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/ec09164f-5c47-4ea5-a74a-dc12e27beb8b">
 
   /embed [ManageMessage] <br>
-    Send a custom embed with the bot
+    Send a custom embed with the bot<br>
     <img width="210" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/98718c66-9265-4ee0-99e1-6f0735bf9614"> <br>
     ![image](https://github.com/lotus64yt/LMCBot/assets/114228798/2d1ac5e8-f799-4917-a946-8bd119ceb5f1)
 
+  /config [Admin] <br>
+    Start the bot configuration <br>
+    <img width="371" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/942e15e0-d92e-40bc-b27e-a4ac9c7245c0">
 
+  /poll [Everyone]
+    Send a poll <br>
+    <img width="255" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/ccd14591-ec56-4a92-bd3a-5e4edffb7760">
+
+  
