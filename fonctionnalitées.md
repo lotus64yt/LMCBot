@@ -143,4 +143,5 @@ Tickets :
 
   /trad [Everyone] <br>
     Translate a string to a specific language <br>
-    
+    <img width="262" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/de5ae44a-3848-4591-875a-acec9250ad88">
+
