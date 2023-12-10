@@ -1,6 +1,6 @@
 # Giveaway :
   /giveaway create [ManageEvent] <br>
-    Create a giveaway in a server with a title, a price, number of winner(s), a duration and conditions witch is optional <br>
+    Create a giveaway in a server with a title, a price, number of winner(s), a duration, and optional conditions <br>
     <img width="342" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/ed5549f0-32af-42a9-b38f-132c50988e4c">
 
 
@@ -26,7 +26,7 @@
     <img width="446" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/687e9c40-7ae6-43b9-abd2-946767710367">
 
 
-  /clear [ManageMessage] <br>
+  /clear [ManageMessages] <br>
     Erase a specific number of messages <br>
     <img width="189" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/55f6059d-e485-4a27-9d6f-8c5370859791">
 
@@ -119,11 +119,11 @@ Tickets :
     Send a button who give a specific role <br>
     <img width="456" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/e5ae7c1c-4521-4dbf-9709-3d3f63dd4ab2">
 
-  /echo [ManageMessage] <br>
+  /echo [ManageMessages] <br>
     Send a message with the bot's profile<br>
     <img width="261" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/ec09164f-5c47-4ea5-a74a-dc12e27beb8b">
 
-  /embed [ManageMessage] <br>
+  /embed [ManageMessages] <br>
     Send a custom embed with the bot<br>
     <img width="210" alt="image" src="https://github.com/lotus64yt/LMCBot/assets/114228798/98718c66-9265-4ee0-99e1-6f0735bf9614"> <br>
     ![image](https://github.com/lotus64yt/LMCBot/assets/114228798/2d1ac5e8-f799-4917-a946-8bd119ceb5f1)
